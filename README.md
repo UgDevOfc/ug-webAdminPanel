@@ -3,7 +3,7 @@
 		ug-webAdminPanel
 	</h1>
 	<p align="center">
-		<img width="620" height="437" src="docs/logo.png">
+		<img width="1020" height="437" src="docs/logo.png">
 	</p>
 	<h4 align="center">
 		UgScripts Discord Server (Support Server): &nbsp; <a href="https://discord.gg/X6g5GcbjbG"><img src="https://discord.com/api/guilds/980556341590511666/widget.png?style=shield"></img></a>
