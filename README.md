@@ -14,6 +14,7 @@
 </p>
 
 <br/>
+
 # Attention!
 ### ug-webAdminPanel is currently in BETA Mode! So, bugs are normal to be found or to have in the panel! So, we ask that, if you find some bugs, to open an Issue ticket in Github section by clicking [here](https://github.com/UgScripts/ug-webAdminPanel/issues/new) or to go into our Discord Support Server clicking [here](https://discord.gg/X6g5GcbjbG)!
 
