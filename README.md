@@ -3,10 +3,10 @@
 		ug-webAdminPanel
 	</h1>
 	<p align="center">
-		<img width="420" height="237" src="docs/logo.png">
+		<img width="620" height="437" src="docs/logo.png">
 	</p>
 	<h4 align="center">
-		UgScripts Discord Server (Support Server): &nbsp; <a href="https://discord.gg/X6g5GcbjbG"><img src="https://discordapp.com/api/guilds/577993482761928734/widget.png?style=shield"></img></a>
+		UgScripts Discord Server (Support Server): &nbsp; <a href="https://discord.gg/X6g5GcbjbG"><img src="https://discord.com/api/guilds/980556341590511666/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
 		<b>ug-webAdminPanel</b> is a <b>full featured</b> web panel wich allows you to manage your <b><a href="https://github.com/esx-framework/esx-legacy" target="_blank">ESX</a></b> or <a href="https://github.com/esx-framework/esx-legacy" target="_blank"><b>QB-Core</a></b> Server.
