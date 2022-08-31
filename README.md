@@ -22,6 +22,10 @@
 - Login Page
 - Supports **[ESX](https://github.com/esx-framework/esx-legacy)** or **[QB-Core](https://github.com/qbcore-framework/qb-core)**
 - Player Management for **[ESX](https://github.com/esx-framework/esx-legacy)** or **[QB-Core](https://github.com/qbcore-framework/qb-core)**
+    - Create Players Via Web
+    - Edit Players Data Via Web
+    - Delete Players Data Via Web
+    - See Online Players (Soon!)
 - More to be added in the future!
 
 ## Requirements:
