@@ -41,7 +41,7 @@
                 $errorMsg = "You must complete all fields!";
                 break;
             }
-            $sql = "UPDATE players SET citizenid = '$citizenID', license = '$license', name = '$steamname', money = '$moneyFix';";
+            $sql = "UPDATE players SET citizenid = '$citizenID', license = '$license', name = '$steamname', money = '$moneyFix' WHERE citizenid = '$citizenID';
             $result = $connection -> query($sql);
             if (!$result) {
                 $errorMsg = "[ug-webAdminPanel] ERROR: Error editing the 'users' table! Query Error: " . $connection -> error;
