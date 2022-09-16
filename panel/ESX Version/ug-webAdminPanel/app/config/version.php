@@ -15,5 +15,5 @@
      * YOU WILL GET ERRORS AND
      * FALSES UPDATES ADVISES!
      */
-    $Version['WebPanelVersion'] = 1.5;
+    $Version['WebPanelVersion'] = 1.6;
 ?>
