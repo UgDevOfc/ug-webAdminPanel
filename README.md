@@ -6,7 +6,7 @@
 		<img width="1020" height="437" src="docs/logo.png">
 	</p>
 	<h4 align="center">
-		UgScripts Discord Server (Support Server): &nbsp; <a href="https://discord.gg/X6g5GcbjbG" target="_blank"><img src="https://discord.com/api/guilds/980556341590511666/widget.png?style=shield"></img></a>
+		UgDev Discord Server (Support Server): &nbsp; <a href="https://discord.gg/XPbfb3AReH" target="_blank"><img src="https://discord.com/api/guilds/1036962730982248468/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
 		<b>ug-webAdminPanel</b> is a <b>full featured</b> web panel wich allows you to manage your <b><a href="https://github.com/esx-framework/esx-legacy" target="_blank">ESX</a></b> or <a href="https://github.com/qbcore-framework/qb-core" target="_blank"><b>QB-Core</a></b> Server.
@@ -16,7 +16,7 @@
 <br/>
 
 # Attention!
-### ug-webAdminPanel is currently in BETA Mode! So, bugs are normal to be found or to have in the panel! So, we ask that, if you find some bugs, to open an Issue ticket in Github section by clicking [here](https://github.com/UgScripts/ug-webAdminPanel/issues/new) or to go into our Discord Support Server clicking [here](https://discord.gg/X6g5GcbjbG)!
+### ug-webAdminPanel is currently in BETA Mode! So, bugs are normal to be found or to have in the panel! So, we ask that if you find some bugs, to open an Issue ticket in Github section by clicking [here](https://github.com/UgDevOfc/ug-webAdminPanel/issues/new) or to go into our Discord Support Server clicking [here](https://discord.gg/XPbfb3AReH)!
 
 ## Features:
 - Login Page
@@ -25,7 +25,6 @@
     - Create Players Via Web
     - Edit Players Data Via Web
     - Delete Players Data Via Web
-    - See Online Players (Soon!)
 - More to be added in the future!
 
 ## Requirements:
@@ -34,16 +33,13 @@
 - **[ESX](https://github.com/esx-framework/esx-legacy)** or **[QB-Core](https://github.com/qbcore-framework/qb-core)** Server
 
 ## How to Install:
-### Windows (XAMPP):
-- Soon 
-### Linux (Ubuntu & Debian):
-- Soon
+- https://docs.ugdev.cf/fivem/ug-webAdminPanel/installation/
 
 ## License
 ```
 MIT License
 
-Copyright (c) 2022 UgScripts
+Copyright (c) 2022 UgDev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
