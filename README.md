@@ -33,7 +33,7 @@
 - **[ESX](https://github.com/esx-framework/esx-legacy)** or **[QB-Core](https://github.com/qbcore-framework/qb-core)** Server
 
 ## How to Install:
-- https://docs.ugdev.cf/fivem/ug-webAdminPanel/installation/
+- https://docs.ugdev.cf/fivem/ug-webadminpanel/installation/
 
 ## License
 ```
